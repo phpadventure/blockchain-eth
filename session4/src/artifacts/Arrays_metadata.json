@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to array types.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"VolunteerCollectionNFT_flattened.sol": "Arrays"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"VolunteerCollectionNFT_flattened.sol": {
+			"keccak256": "0x2f39e3848213c7743ae1446a76a44866b9caee4f532ff5f24dc66523cbf0c08b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5c7c26e03c68809e00dc44b12b6a283f7d66bbe4d654c3e1fb1a2d0f1e794ee6",
+				"dweb:/ipfs/QmTFtkh5JRjqggsGMXJ6CBVsHwWYyPS8BZVqXBAXFiBLA9"
+			]
+		}
+	},
+	"version": 1
+}

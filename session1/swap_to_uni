@@ -1,0 +1,9 @@
+Lets perform Uniswap task on Scroll Sepolia Testnet. Scroll is a layer 2 chain used for scaling Ethereum. It achieves lower transaction fees and higher transaction throughput. Scroll's data availability layer is still Ethereum, which means that transactions are gathered into batches and sent to Ethereum.
+1. Add Scroll Sepolia Testnet to your MetaMask https://chainlist.org/?search=scroll+sepolia&testnets=true
+2. Switch to Scroll Sepolia Testnet in Metamask
+3. Open Scroll Sepolia Testnet Faucet https://bwarelabs.com/faucets/scroll-testnet 
+4. Claim your testnet ETH
+5. Open the Uniswap interface on Scroll Sepolia Testnet https://uniswap-showcase.sepolia.scroll.xyz/#/swap 
+6. Connect wallet, swap ETH to GHO.
+7. Share your link to your transaction, for example https://sepolia.scrollscan.com/tx/0x0b6e9d316f0d26fead99d0647cd9b583b0f40a233ef3b70e60865c171e6abea3
+ 
